@@ -12,6 +12,15 @@ h2{
     text-align: center;
 }
 
+h3{
+    color: #F5E8E3;
+    font-family: sans-serif;
+}
+
+#intro p {
+    font-family: sans-serif;
+    color: #B8E0D3;
+}
 nav {
     background-color: #F5E8E3;
     padding: 1%;
@@ -38,4 +47,14 @@ nav li a {
     color: #fff;
     padding: 0.5em 1em;
     text-decoration: none;
+}
+
+img {
+    width: 20em;
+    height: 20em;
+
+}
+
+header {
+    text-align: center;
 }
