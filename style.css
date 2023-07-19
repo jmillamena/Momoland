@@ -8,18 +8,14 @@ h1{
    
 }
 
-header img {
-    margin: 10px;
-    max-height: 200 px;
-}
-
 img {
-    max-width: 100%;
+    width: 20em;
+    height: 20em;
+
 }
 
 h2 {
     color: #637765;
     font-size: xx-small;
-
-  
+    text-align: center;
 }
