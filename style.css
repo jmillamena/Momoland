@@ -47,3 +47,18 @@ nav li a {
     padding: 0.5em 1em;
     text-decoration: none;
 }
+
+#one {
+    color: #637765;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+#two, .action a {
+    color:#D7EDCE;
+    font-family: sans-serif;
+}
+
+header {
+    text-align: center;
+}
