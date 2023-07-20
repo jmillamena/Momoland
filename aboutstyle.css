@@ -58,3 +58,12 @@ img {
 header {
     text-align: center;
 }
+
+
+footer p {
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 0.75em;
+    text-align: center;
+    color: #fff;
+    padding: 0 1em;
+}
