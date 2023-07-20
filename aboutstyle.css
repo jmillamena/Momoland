@@ -13,13 +13,13 @@ h2{
 }
 
 h3{
-    color: #F5E8E3;
+    color: #637765;
     font-family: sans-serif;
 }
 
 #intro p {
     font-family: sans-serif;
-    color: #B8E0D3;
+    color: #637765;
 }
 nav {
     background-color: #F5E8E3;
@@ -66,4 +66,9 @@ footer p {
     text-align: center;
     color: #fff;
     padding: 0 1em;
+}
+
+#intro {
+    padding: 20px;
+    background: #D7EDCE;
 }

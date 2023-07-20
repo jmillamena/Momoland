@@ -55,7 +55,7 @@ nav li a {
 }
 
 #two, .action a {
-    color:#D7EDCE;
+    color: #637765;
     font-family: sans-serif;
 }
 
@@ -70,4 +70,10 @@ footer p {
     text-align: center;
     color: #fff;
     padding: 0 1em;
+}
+
+
+.content {
+    padding: 20px;
+    background: #D7EDCE;
 }
